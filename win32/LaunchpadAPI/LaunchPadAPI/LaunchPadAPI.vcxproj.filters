@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="RtMidi.cpp">
+      <Filter>MidiAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="NovationLaunchpadMini.cpp">
+      <Filter>API Implementations\Novation Launchpad Mini</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RtMidi.h">
+      <Filter>MidiAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="ILaunchPadDevice.h">
+      <Filter>Launchpad API</Filter>
+    </ClInclude>
+    <ClInclude Include="NovationLaunchpadMini.h">
+      <Filter>API Implementations\Novation Launchpad Mini</Filter>
+    </ClInclude>
+    <ClInclude Include="LaunchpadAPI.h">
+      <Filter>Launchpad API</Filter>
+    </ClInclude>
+    <ClInclude Include="launchpad_def.h">
+      <Filter>API Implementations</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MidiAPI">
+      <UniqueIdentifier>{286656d8-a253-4445-9f12-3a6c194f714c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Launchpad API">
+      <UniqueIdentifier>{36882756-2112-4b83-a34d-acd7b66ef63b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Implementations">
+      <UniqueIdentifier>{4ba157ed-502a-47e7-82be-5e1a2ac863f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API Implementations\Novation Launchpad Mini">
+      <UniqueIdentifier>{b75be47a-752b-4ffe-8b0c-a0e5e4741f8c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
