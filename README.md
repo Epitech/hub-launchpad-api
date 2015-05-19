@@ -34,7 +34,7 @@ This project is under MIT Licence.
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Innovation Hub Epitech
+Copyright (c) 2015 Innovation Hub Epitech
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
